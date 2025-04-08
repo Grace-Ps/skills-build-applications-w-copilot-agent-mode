@@ -997,3 +997,11 @@ button:hover {
   }
 }
 ```
+# Step 5: Start and Verify MongoDB Service
+
+Run the following commands to start the MongoDB service and verify it is running:
+
+```bash
+sudo service mongodb start
+sudo service mongodb status
+```
